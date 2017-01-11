@@ -1,0 +1,14 @@
+body{
+  background-color: white;
+  font-size: 30px;
+  padding: 150px;
+  display:inline-block;
+}
+.box{
+  width: 100px;
+   border: 25px solid green;
+   padding: 25px;
+   margin: 25px;
+   height:200px;
+   display: inline-block;
+}
